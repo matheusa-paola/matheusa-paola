@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusa-paola
 - 👀 I’m interested in the analysis of biological data and data storytelling in science.
-- 🌱 I’m a certified data scientist, and a PhD student.
+- 🌱 I’m a certified data scientist and a STEM teacher.
 - 💞️ I’m looking to collaborate on the analysis of biological data and statistic models for solving science related problems.
 - 📫 How to reach me matheusa.paola@gmail.com
 
